@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 override
+=======
+write on line 1
+>>>>>>> yourBranch
